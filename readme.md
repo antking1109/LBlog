@@ -1,2 +1,1 @@
-## Đăng nhập admin
-	mydomain/login
+#Learn Laravel :3
